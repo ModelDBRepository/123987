@@ -1,4 +1,4 @@
-# readme.txt for RespirGeneratorBioSystems
+# readme for RespirGeneratorBioSystems
 
 The archive RespirGeneratorBioSystems.zip contains matlab files that simulate the model for Frog Ventilatory rhythmogenesis that we developed and reported in the paper:
 
